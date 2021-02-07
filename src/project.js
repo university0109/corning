@@ -1020,9 +1020,9 @@ window.__require = function e(t, n, o) {
           }).union().repeatForever().start()
         }, t.prototype.update = function (e) {
         }, t.prototype.adsButtonFunc2 = function () {
-          window.location.href = "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/0a961129-126a-428a-934a-919f0df24e44.png"
+          window.location.href = "https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3ODc4NzEzOA==&mid=2651669063&idx=1&sn=a0c0a6c9967e6a54c5a0e7b4c07ca8f5&send_time="
         }, t.prototype.bannerButtonFunc = function () {
-          window.location.href = "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/0a961129-126a-428a-934a-919f0df24e44.png"
+          window.location.href = "https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3ODc4NzEzOA==&mid=2651669063&idx=1&sn=a0c0a6c9967e6a54c5a0e7b4c07ca8f5&send_time="
         }, t.prototype.ShowFailedUi = function (e, t) {
           var n = this;
           this.scheduleOnce(function () {
@@ -1607,7 +1607,7 @@ window.__require = function e(t, n, o) {
                 t.createFruitCount++) : 4 == t.createFruitCount ? (a.default.Instance.createOneFruit(2),
                 t.createFruitCount++) : 5 == t.createFruitCount ? (a.default.Instance.createOneFruit(3),
                 t.createFruitCount++) : t.createFruitCount > 5 &&
-                (a.default.Instance.createOneFruit(s.default.RandomInteger(0, 5)),
+                (a.default.Instance.createOneFruit(s.default.RandomInteger(0, 6)),
                   t.createFruitCount++))
             }, .5))
         }, t.prototype.closeTouch = function () {
@@ -1984,7 +1984,7 @@ window.__require = function e(t, n, o) {
         }, t.prototype.update = function (e) {
           this.UpdateScoreLabel(e), this.lerpCtrl && this.lerpNumFunc(this.passlevelYQ), this.levelPanel.children[1].getComponent(cc.Label).string = s.default.Instance.GetLevel().toString()
         }, t.prototype.adsButtonFunc = function () {
-          window.location.href = "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-b1ebbd3c-ca49-405b-957b-effe60782276/0a961129-126a-428a-934a-919f0df24e44.png";
+          window.location.href = "https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA3ODc4NzEzOA==&mid=2651669063&idx=1&sn=a0c0a6c9967e6a54c5a0e7b4c07ca8f5&send_time=";
         }, t.prototype.TestPasslevel = function () {
           var e = this;
           this.lerpCtrl = !0, this.nowYQ >= this.passlevelYQ && (this.levelPanel.children[2].runAction(cc.sequence(cc.delayTime(1.3), cc.callFunc(function () {
